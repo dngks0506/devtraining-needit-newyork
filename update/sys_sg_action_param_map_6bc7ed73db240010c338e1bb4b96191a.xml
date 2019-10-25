@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New">8f452133db240010c338e1bb4b961900</button>
+        <item_parameter display_value="New">f3572173db240010c338e1bb4b96192c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 06:40:43</sys_created_on>
+        <sys_id>6bc7ed73db240010c338e1bb4b96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f3572173db240010c338e1bb4b96192c</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6bc7ed73db240010c338e1bb4b96191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 06:40:43</sys_updated_on>
+        <ui_parameter display_value="New">5f962d33db240010c338e1bb4b96193d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
